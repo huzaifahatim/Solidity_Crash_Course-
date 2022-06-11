@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"byte_dynamic_array.sol": "byte_dynamic_arrat"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"byte_dynamic_array.sol": {
+			"keccak256": "0xe5ebc49388f175c8cb1df25dab8983fd2d7459f31eabe0678bb22295c796d522",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://76b703907042be84811e435bc3879c1c5b85e475c1e835699e4b5287b5df23c4",
+				"dweb:/ipfs/QmYMuSnbVBSkH24odWHGU8RdV9WZwqyvCiKUcvPqwVXE9F"
+			]
+		}
+	},
+	"version": 1
+}

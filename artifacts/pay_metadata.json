@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pay_ether",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract_bal.sol": "pay"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract_bal.sol": {
+			"keccak256": "0x74d32e56362adcd75cf32a6afa0cf2e74515ec33faaac10a69bf84db14023560",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5669a72362be5d8e9bc4ea0eff7bc9ecec17b71760c5551154771bae6aa10508",
+				"dweb:/ipfs/QmbCwihjWwCqADEpDuKYvJuVVnhrUewbY6Ur2xgNb5fG7m"
+			]
+		}
+	},
+	"version": 1
+}
